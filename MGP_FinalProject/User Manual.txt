@@ -1,0 +1,35 @@
+Welcome to Multiple Game Player(MPG)
+
+In the title screen you will see Open Game and exit. 
+
+If you want to play a game click Open Game, and navigate to the games folder, and select the game you want to play.
+
+When you want to exit the program click the exit button.
+
+Descriptions of each game included: 
+
+Tic Tac Toe: Choose who gets to be X or O. Be the first to get 3 in a row of your X or O. #reminder X always goes first.
+
+MatchTheNumbersGame: 12 blanks buttons will appear on screen, and once you click them a number will appear. There are 6 matches you can get. 
+
+ColorGuessingGame: Once you open the game press enter to start. Text of a color will apear, and the text will also be colored. Type the color that the word is. Try to get as much as you can!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
